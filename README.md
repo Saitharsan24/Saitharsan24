@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Roam Sri Lanka](https://github.com/Saitharsan24/RoamSrilanka.git)
 
-- 🌱 I’m currently learning **React, Machine learning, Vue js**
+- 🌱 I’m currently learning **React, Machine learning, Vue js, Springboot**
 
 - 👯 I’m looking to collaborate on **Machine learning Projects**
 
