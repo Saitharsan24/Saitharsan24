@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saitharsan Nanthakumaran</h1>
-<h3 align="center">A Third year Undergraduate student 👨‍💻👨‍🎓 from the University of Colombo School of Computing.</h3>
+<h3 align="center">A Software Engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saitharsan24&label=Profile%20views&color=0e75b6&style=flat" alt="saitharsan24" /> </p>
 
