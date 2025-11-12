@@ -5,16 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saitharsan24" alt="saitharsan24" /></a> </p>
 
-- 🔭 I’m currently working on [Roam Sri Lanka](https://github.com/Saitharsan24/RoamSrilanka.git)
-
-- 🌱 I’m currently learning **React, Machine learning, Vue js, Springboot**
-
-- 👯 I’m looking to collaborate on **Machine learning Projects**
-
-- 🤝 I’m looking for help with **learning ML**
-
-- 💬 Ask me about **Machine learning**
-
 - 📫 How to reach me **saitharsan@gmail.com**
 
 - ⚡ Fun fact **One thing I cannot live without is my 5 pillows**
