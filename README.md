@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Saitharsan Nanthakumaran</h1>
-<h3 align="center">A Software Engineer.</h3>
+<h3 align="center">A Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saitharsan24&label=Profile%20views&color=0e75b6&style=flat" alt="saitharsan24" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saitharsan24" alt="saitharsan24" /></a> </p>
 
 - 📫 How to reach me **saitharsan@gmail.com**
-
-- ⚡ Fun fact **One thing I cannot live without is my 5 pillows**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
